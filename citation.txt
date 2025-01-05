@@ -1,0 +1,7 @@
+@inproceedings{REPO172,
+    author = "Chen, Zhuo and Chen, Jiaoyan and Zhang, Wen and Guo, Lingbing and Fang, Yin and Huang, Yufeng and Zhang, Yichi and Geng, Yuxia and Pan, Jeff Z and Song, Wenting and others",
+    booktitle = "Proceedings of the 31st ACM International Conference on Multimedia",
+    pages = "3317--3327",
+    title = "{Meaformer: Multi-modal entity alignment transformer for meta modality hybrid}",
+    year = "2023"
+}
